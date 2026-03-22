@@ -1,0 +1,1 @@
+# DL_mini_Project_on_segmentation-on-the-PASCAL-VOC_dataset
